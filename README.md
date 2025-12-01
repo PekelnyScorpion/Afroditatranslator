@@ -12,11 +12,14 @@ Modely jsou optimalizované pro mobilní zařízení (*small varianty*) a poskyt
 
 ## ⚖️ Licence
 V repozitáři se nachází modely pod různými open‑source licencemi:
-- **Apache 2.0** – většina doporučených modelů (např. EN, DE small).  
-- **MIT**  
-- **LGPL-3.0**  
 
-Prosím respektujte podmínky příslušné licence při použití a distribuci.
+- **Apache 2.0** – většina doporučených modelů (např. vosk-model-small-cs-0.15, vosk-model-small-de-0.15).  
+- **MIT** – některé alternativní modely (např. vosk-model-small-cs-0.4-rhasspy).  
+- **LGPL-3.0** – výzkumné modely (např. vosk-model-small-en-us-zamia-0.5).  
+- **AGPL** – modely z projektu Kaldi-active-grammar (např. vosk-model-en-us-daanzu-20200905).  
+
+> **Poznámka:** Licence se vztahuje pouze na konkrétní model. Samotný projekt Afroditatranslator může mít vlastní licenci (např. Apache 2.0), ale při použití jednotlivých modelů je nutné respektovat podmínky jejich původní licence.
+
 
 ## 🔗 Oficiální projekt
 - GitHub: [alphacep/vosk-api](https://github.com/alphacep/vosk-api)  
