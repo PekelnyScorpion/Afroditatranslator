@@ -1,0 +1,2 @@
+# Afroditatranslator
+překladač
